@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98ad31fd-ec4a-4a25-8279-b881915f7278" name="Changes" comment="fsf">
-      <change afterPath="$PROJECT_DIR$/src/continuebreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repititionfun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumfunwhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dicesimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Evenonlyfun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/randomfun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +43,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.continuebreak">
-    <configuration name="Switchcase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switchcase" />
+  <component name="RunManager" selected="Application.Dicesimulation">
+    <configuration name="Dicesimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dicesimulation" />
+      <module name="Java2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Evenonlyfun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Evenonlyfun" />
       <module name="Java2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,15 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="faternity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="faternity" />
-      <module name="Java2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="repititionfun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="repititionfun" />
+    <configuration name="randomfun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="randomfun" />
       <module name="Java2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dicesimulation" />
+        <item itemvalue="Application.randomfun" />
+        <item itemvalue="Application.Evenonlyfun" />
         <item itemvalue="Application.continuebreak" />
         <item itemvalue="Application.sumfunwhile" />
-        <item itemvalue="Application.repititionfun" />
-        <item itemvalue="Application.faternity" />
-        <item itemvalue="Application.Switchcase" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688656296714</updated>
-      <workItem from="1688656297720" duration="8797000" />
+      <workItem from="1688656297720" duration="12962000" />
     </task>
     <task id="LOCAL-00001" summary="fsf">
       <option name="closed" value="true" />
@@ -123,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688660805076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fsf">
+      <option name="closed" value="true" />
+      <created>1688731033534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688731033534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
