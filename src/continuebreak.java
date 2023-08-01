@@ -8,7 +8,7 @@ public class continuebreak {
             }
             System.out.print(input + "\t");
 input++;
-        }//end while
+        }//end while-loop
         input =0;
         System.out.println("");
         while (input <20){

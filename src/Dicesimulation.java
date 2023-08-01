@@ -10,6 +10,6 @@ public class Dicesimulation {
         for(int i=1; i<=input;i++){
             int Dice = random.nextInt(6) + 1;
             System.out.println("Rolling the " +i+ " dice and result is: " + Dice);
-        }//end for
+        }//end for-loop
     }//end main
 }
