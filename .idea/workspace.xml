@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ad31fd-ec4a-4a25-8279-b881915f7278" name="Changes" comment="fsf">
+    <list default="true" id="98ad31fd-ec4a-4a25-8279-b881915f7278" name="Changes" comment="New Change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Evenonlyfun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Evenonlyfun.java" afterDir="false" />
     </list>
@@ -99,7 +99,7 @@
       <workItem from="1688656297720" duration="14395000" />
       <workItem from="1689245412833" duration="742000" />
       <workItem from="1689321615732" duration="31000" />
-      <workItem from="1690886549472" duration="2234000" />
+      <workItem from="1690886549472" duration="3590000" />
     </task>
     <task id="LOCAL-00001" summary="fsf">
       <option name="closed" value="true" />
@@ -149,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690886641280</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New Change">
+      <option name="closed" value="true" />
+      <created>1690986272054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690986272054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fsf" />
-    <option name="LAST_COMMIT_MESSAGE" value="fsf" />
+    <MESSAGE value="New Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Change" />
   </component>
 </project>
